@@ -1,6 +1,8 @@
 Ciner: Camera Sensor Sizes
 Created by Derived Pierre-Louis
 
+This is a collection of camera sensor sizes. It includes DSLR, mirrorless, and cinema cameras. This asset is for unity users who are looking to get into virtual production.
+
 What is a "Sensor Size":
 
 Sensor Size is the width and height of a camera's image sensor.
