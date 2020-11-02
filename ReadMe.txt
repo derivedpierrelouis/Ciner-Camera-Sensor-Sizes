@@ -29,3 +29,5 @@ Inside the "Ciner" folder, you'll find a "Body" folder and inside that folder, y
 change the name of your scene's camera to the selected camera type.
 
 if you have any questions, contact me @ derivedpierrelouis@gmail.com.
+
+Video: https://www.youtube.com/watch?v=LZZ6-Ml7Lp0
