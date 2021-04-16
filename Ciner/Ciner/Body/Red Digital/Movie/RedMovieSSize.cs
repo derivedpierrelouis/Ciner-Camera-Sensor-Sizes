@@ -14,9 +14,9 @@ public class RedMovieSSize : MonoBehaviour
 		DSMC2BrainDragonX6KS35 = 3,
 		DSMC2MonochromeBrainMonstro8KVV = 4,
 		DSMC2MonochromeBrainHelium8KS35 = 5,
-		REDRangerMonstro = 5,
-		REDRangerHelium = 5,
-		REDRangerGemini = 5,
+		REDRangerMonstro = 6,
+		REDRangerHelium = 7,
+		REDRangerGemini = 8,
 
 	}
         static readonly string[] nameCamera =
