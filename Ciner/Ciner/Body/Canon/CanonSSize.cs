@@ -93,7 +93,7 @@ public class CanonSSize : MonoBehaviour
 		CanonEos1DMarkIV = 38,
 		CanonEosR5 = 39,
 		CanonEosR6 = 40,
-		EosRa = 43,
+		EosRa = 41,
 	}
 	
 	 void OnEnable()
